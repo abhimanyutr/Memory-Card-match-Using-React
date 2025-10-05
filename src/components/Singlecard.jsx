@@ -1,5 +1,5 @@
 import React from 'react'
-import "./singleCard.css"
+import './stylesinglecard.css'
 import { Box, Stack, Button } from '@mui/material';
 function Singlecard({card,handleChoice,flipped,disabled}) {
 
